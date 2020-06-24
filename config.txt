@@ -1,0 +1,1 @@
+este documento puede ver de como se sube el proyecto usando git
